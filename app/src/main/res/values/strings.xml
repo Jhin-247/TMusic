@@ -3,4 +3,6 @@
     <string name="bottom_navigation_tab_1">Home</string>
     <string name="bottom_navigation_tab_2">Home</string>
     <string name="bottom_navigation_tab_3">Home</string>
+
+    <string name="hint_search_song">Enter song name</string>
 </resources>

@@ -9,15 +9,18 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.th1.databinding.FragmentSearchBinding;
+import com.example.th1.databinding.FragmentPlayMusicBinding;
 
-public class SearchFragment extends Fragment {
-    FragmentSearchBinding binding;
+public class PlayMusicFragment extends Fragment {
+    FragmentPlayMusicBinding binding;
 
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        binding = FragmentSearchBinding.inflate(inflater,container,false);
+        binding = FragmentPlayMusicBinding.inflate(inflater, container, false);
+
+
+
         return binding.getRoot();
     }
 }

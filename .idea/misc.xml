@@ -3,14 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/drawable/background_search_edittext.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/drawable/background_search_layout.xml" value="0.2" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/drawable/ic_baseline_account_balance_24.xml" value="0.1995" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/drawable/ic_profile_no_login_um.xml" value="0.1" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/drawable/ic_song_option_um.xml" value="0.1" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/activity_main_1.xml" value="0.1" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_all_music.xml" value="0.2" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_crud.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_my_music.xml" value="0.25" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_play_music.xml" value="0.2" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_search.xml" value="0.2" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_show_data.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_show_music_list.xml" value="0.22" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/fragment_user_info.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/item_home_music.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/item_music_home.xml" value="0.25" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/item_spinner.xml" value="0.2" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/layout/layout_tablayout.xml" value="0.22" />
         <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.2" />
+        <entry key="..\:/WorkSpace/AndroidStudioProj/TH1/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2" />
       </map>
     </option>
   </component>

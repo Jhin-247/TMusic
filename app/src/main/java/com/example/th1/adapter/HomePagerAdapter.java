@@ -7,9 +7,9 @@ import androidx.fragment.app.FragmentManager;
 import androidx.lifecycle.Lifecycle;
 import androidx.viewpager2.adapter.FragmentStateAdapter;
 
-import com.example.th1.fragment.CRUDFragment;
-import com.example.th1.fragment.SearchFragment;
-import com.example.th1.fragment.homefragment.ShowDataFragment;
+import com.example.th1.fragment.homefragment.UserInfoFragment;
+import com.example.th1.fragment.homefragment.AllMusicFragment;
+import com.example.th1.fragment.homefragment.MyMusicFragment;
 
 public class HomePagerAdapter extends FragmentStateAdapter {
     public HomePagerAdapter(@NonNull FragmentActivity fragmentActivity) {
@@ -29,11 +29,11 @@ public class HomePagerAdapter extends FragmentStateAdapter {
     public Fragment createFragment(int position) {
         switch (position){
             case 0:
-                return new ShowDataFragment();
+                return new MyMusicFragment();
             case 1:
-                return new SearchFragment();
+                return new AllMusicFragment();
         }
-        return new CRUDFragment();
+        return new UserInfoFragment();
     }
 
     @Override

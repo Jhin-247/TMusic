@@ -9,20 +9,14 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
-import com.example.th1.databinding.FragmentShowDataBinding;
+import com.example.th1.databinding.FragmentUserInfoBinding;
 
-public class ShowDataFragment extends Fragment {
-    FragmentShowDataBinding binding;
-
+public class UserInfoFragment extends Fragment {
+    FragmentUserInfoBinding binding;
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        binding = FragmentShowDataBinding.inflate(inflater,container,false);
+        binding = FragmentUserInfoBinding.inflate(inflater,container,false);
         return binding.getRoot();
-    }
-
-    @Override
-    public void onCreate(@Nullable Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
     }
 }
